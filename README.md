@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there <br><br>🔭 IT Student <br>⚡with a passion for :<br>             - Data science <br>             -cloud computing <br>             -Blockchain/web3<br>👯 I’m looking to collaborate <br> 
+Hi there <br><br>🔭 IT Student <br>⚡with a passion for :<br>             - Data science <br>             - Cloud computing <br>             - Blockchain/web3<br> - DevOps<br> 👯 I’m looking to collaborate <br> 
 
 
 # 💻 Tech Stack:
