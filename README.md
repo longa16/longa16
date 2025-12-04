@@ -96,7 +96,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longa16&" alt="longa16" /></p>
 
 ###
-
+<h3 align="left">Social media</h3>
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/lo%C3%AFc-ngassa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
