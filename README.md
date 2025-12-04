@@ -89,6 +89,14 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longa16&show_icons=true&locale=en&layout=compact" alt="longa16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longa16&show_icons=true&locale=en" alt="longa16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longa16&" alt="longa16" /></p>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lo%C3%AFc-ngassa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
