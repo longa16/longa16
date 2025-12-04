@@ -89,6 +89,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="1c1f7008-ecf4-460b-9516-999cb1cfd5d5.gif"  />
+</div>
+
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longa16&show_icons=true&locale=en&layout=compact" alt="longa16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longa16&show_icons=true&locale=en" alt="longa16" /></p>
@@ -112,16 +118,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31uymypptq4cogmeims6acf2f2oe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uymypptq4cogmeims6acf2f2oe&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="1c1f7008-ecf4-460b-9516-999cb1cfd5d5.gif"  />
-</div>
-
-###
