@@ -95,7 +95,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=vision-friendly-dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longa16&layout=compact&theme=vision-friendly-dark&langs_count=8)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longa16&show_icons=true&locale=en" alt="longa16" /></p>
 
