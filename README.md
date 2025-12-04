@@ -95,7 +95,7 @@
 
 ###
 
-![Metrics](https://metrics.lecoq.io/longa16?template=classic&base=header,repositories&isocalendar=1&languages=1&languages_details=lines,percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longa16&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longa16&" alt="longa16" /></p>
 
