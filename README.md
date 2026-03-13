@@ -94,10 +94,6 @@
 </div>
 
 ###
-
-<h3 align="left">Statistics</h3>
-
-###
 <h3 align="left">Social media</h3>
 
 <div align="left">
