@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/longa16/longa16/main/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
