@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I’m currently in my last year of Computer Engineering. I’m really passionate about everything related to AI and Data Science, and I love geeking out over new machine learning trends. I'm looking forward to graduating soon and diving deeper into the data world!</p>
+<p align="left">I’m really passionate about everything related to AI and Data Science, and I love geeking out over new machine learning trends. I'm looking forward to graduating soon and diving deeper into the data world!</p>
 
 ###
 
